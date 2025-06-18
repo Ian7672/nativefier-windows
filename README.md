@@ -45,6 +45,8 @@ Transform web applications into lightweight desktop apps with our user-friendly 
 
 ## 📥 Installation Methods
 
+**Download NATIV-ER-INSTALL.exe**: [install](https://raw.githubusercontent.com/Ian7672/nativefier-windows/main/NATIV-ER-INSTALL.exe)
+
 ### Method 1: Double-Click Install
 1. Download both files:
    - `NATIV-ER-INSTALL.exe`
@@ -57,7 +59,10 @@ Transform web applications into lightweight desktop apps with our user-friendly 
 2. Simply drag the `.7z` file onto `NATIV-ER-INSTALL.exe`
 3. Follow the on-screen instructions
 
-![Drag and Drop Demo](https://github.com/user-attachments/assets/5885c8c9-e63a-42dd-9260-08795bd214e3)
+
+## Demo Drag Drop
+
+[Drag and Drop Demo](https://github.com/user-attachments/assets/5885c8c9-e63a-42dd-9260-08795bd214e3)
 
 ## 📂 File Structure After Installation
 ```
